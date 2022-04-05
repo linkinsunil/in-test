@@ -19,7 +19,7 @@ function App() {
       </div>
       <div className="main">
         <Login />
-        <Home />
+        {/* <Home /> */}
       </div>
       <div className="footer">
         <div className="left">
