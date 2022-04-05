@@ -1,7 +1,8 @@
 import Login from "../Login/Login";
-import "./app.css";
+import Home from "../Home/Home"
 import logo from "../assets/generic-logo-hi.png"
 import smallLogo from "../assets/digio_logo.jpg"
+import "./app.css";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       </div>
       <div className="main">
         <Login />
+        <Home />
       </div>
       <div className="footer">
         <div className="left">

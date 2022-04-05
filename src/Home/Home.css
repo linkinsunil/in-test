@@ -1,0 +1,59 @@
+section {
+  margin: 2rem 0rem;
+}
+
+.verification-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.btn {
+  padding: 0.5rem 1rem;
+  border-radius: 3px;
+  border: none;
+  color: #fff;
+}
+
+input {
+  padding: 0.5rem 1rem;
+  border-radius: 3px;
+  border: 1px solid grey;
+}
+
+.brand-color {
+  background: #005fb3;
+}
+
+.h1 {
+  border-bottom: 2px solid grey;
+  padding: 1rem 0rem;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-center {
+  justify-content: center;
+  align-items: center;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.aadhaar-logo {
+  max-width: 12rem;
+}
+
+.modal {
+  column-gap: 20px;
+}
+
+.aadhaar-input {
+  justify-content: space-between;
+}
+
+.otp-input {
+  justify-content: space-between;
+}
